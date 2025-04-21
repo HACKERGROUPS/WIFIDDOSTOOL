@@ -5,4 +5,4 @@
 # git clone https://github.com/HACKERGROUPS/WIFIDDOSTOOL
 # cd WIFIDDOSTOOL
 # mkdir backup
-# python3 final_dos.py
+# python3 wifidos.py
