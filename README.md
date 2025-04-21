@@ -1,2 +1,6 @@
 # WIFIDDOSTOOL
 DDOS YOUR NEIGHBOR)
+HOW TO INSTALL:
+git clone https://github.com/HACKERGROUPS/WIFIDDOSTOOL
+cd WIFIDDOSTOOL
+python3 final_dos.py
